@@ -1,0 +1,7 @@
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Unidad1-Capitulo2\bin\Debug\Unidad1-Capitulo2.exe.config
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Unidad1-Capitulo2\bin\Debug\Unidad1-Capitulo2.exe
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Unidad1-Capitulo2\bin\Debug\Unidad1-Capitulo2.pdb
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Unidad1-Capitulo2\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Unidad1-Capitulo2\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Unidad1-Capitulo2\obj\Debug\Unidad1-Capitulo2.exe
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Unidad1-Capitulo2\obj\Debug\Unidad1-Capitulo2.pdb

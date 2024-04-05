@@ -1,0 +1,7 @@
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Lab02\bin\Debug\Lab02.exe
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Lab02\bin\Debug\Lab02.pdb
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Lab02\obj\Debug\Lab02.exe
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad01\Capitulo01\Laboratorios\Lab02\obj\Debug\Lab02.pdb

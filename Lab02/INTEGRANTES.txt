@@ -1,0 +1,5 @@
+Nombre		Apellido	Turno
+David		Delgado		Tarde
+Florencia	Degiusti	Tarde
+Facundo		Munne		Mañana
+Gerónimo	Colman		Mañana

@@ -1,0 +1,7 @@
+Nombre		Apellido	Turno
+David		Delgado		Tarde
+Florencia	Degiusti	Tarde
+Facundo		Munne		Mañana
+Gerónimo	Colman		Mañana
+
+Al hacer las pruebas, nos dimos cuenta que cualquier alteración dentro de VS2022 no altera el archivo físico. A su vez, al crear un archivo físico dentro de las carpetas, no se ve reflejado en VS2022.
