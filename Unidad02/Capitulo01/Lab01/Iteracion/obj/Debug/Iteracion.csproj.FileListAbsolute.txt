@@ -1,0 +1,7 @@
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad02\Capitulo01\Lab01\Iteracion\bin\Debug\Iteracion.exe.config
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad02\Capitulo01\Lab01\Iteracion\bin\Debug\Iteracion.exe
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad02\Capitulo01\Lab01\Iteracion\bin\Debug\Iteracion.pdb
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\Iteracion.csproj.AssemblyReference.cache
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\Iteracion.csproj.CoreCompileInputs.cache
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\Iteracion.exe
+C:\Users\flore\OneDrive - frro.utn.edu.ar\Documentos\utn\.net\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\Iteracion.pdb
